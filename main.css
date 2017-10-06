@@ -1,0 +1,47 @@
+body {
+  text-align: center;
+  /* alinear elementos */
+}
+
+  /* al nombre se le antepone un punto para que reconozca que se trata de una clase */
+.rectangulo-principal {
+  /* poner color en ingles, o de forma hexadecimal #0040FF o en rgb rgb(89, 102, 986)*/
+  background-color: gray;
+  /* para espaciar */
+  padding-bottom: 20px;
+}
+p{
+  color: red;
+}
+
+p{
+  font-family: "Mukta";
+}
+
+h1{
+  font-family: "Sigmar One";
+}
+
+h5{
+  font-family: "Mukta";
+}
+
+h6{
+  font-family: "Mukta";
+}
+
+/*img1{
+  wigth:400px; ancho de la imagen
+  heigth: 400px; alto de la imagen
+}*/
+
+.foto-principal{
+  wigth:400px;
+  heigth: 400px;
+}
+
+/* hacer separador */
+.enlaces{
+  /* solid black - dashed - dotted black buscar types border css*/
+  border-top: 1px dotted black;
+}
